@@ -4,3 +4,5 @@
 def fizzbuzz(number)
 
 end
+
+fizzbuzz
